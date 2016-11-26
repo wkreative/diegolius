@@ -6,7 +6,7 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#6b9a9e",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.7",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -416,7 +416,7 @@
             "paddingBottom": 1,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/face1.jpg",
@@ -435,7 +435,7 @@
                 "text": "<p>“Todos los detalles del día más importante de mi vida fueron capturados por los lententes de las cámaras de Diego Luis Photography, Servicio de Altura ”</p>"
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/face2.jpg",
@@ -459,16 +459,16 @@
             "showBio": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/diego-luis-photography-17-2000x1125-75.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ffffff",
             "showTitle": false,
             "showSubtitle": false,
             "showBullets": true,
@@ -493,11 +493,11 @@
           "_name": "footer4",
           "_anchor": "footer4-8",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/diego-luis-photography-17-2000x1125-45.jpg",
             "bgColor": "#323232",
             "bgColorRadio": true,
             "overlay": true,
@@ -512,9 +512,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/diego-logo-640x128-93.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Diego Luis Photography",
               "link": "#top",
-              "title": "",
+              "title": "Diego Luis Photography",
               "linkInNewWindow": false
             },
             "iconFont": {
