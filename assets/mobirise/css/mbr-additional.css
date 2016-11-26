@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -724,8 +725,9 @@ blockquote {
   margin-top: 40px;
 }
 #animated-bg1-4 H1 {
-  font-size: 100px;
+  font-size: 46px;
   color: #ffffff;
+  font-family: 'Arvo', serif;
 }
 #pricing-table2-a .mbr-section__container .mbr-section-title {
   color: #fff;
@@ -736,6 +738,9 @@ blockquote {
 }
 #testimonials2-c .card-block p {
   font-size: 15px;
+}
+#footer4-8 .mbr-section-subtitle {
+  font-size: 12px;
 }
 #form1-k .mbr-section-subtitle {
   text-transform: uppercase;
