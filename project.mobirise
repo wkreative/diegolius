@@ -39,14 +39,17 @@
       "counterColor": "#FFFFFF",
       "counterBack": "#faaf40",
       "checkoutButton": "Check Out with"
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/camera-icon-300x300-128x128-40.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Diego Luis Photography",
+        "meta_descr": "Diego Luis Photography\nFotografo Profesional",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -60,8 +63,10 @@
               "margin-top": "40px"
             },
             "H1": {
-              "font-size": "100px",
-              "color": "#ffffff"
+              "font-size": "46px",
+              "color": "#ffffff",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
             }
           },
           "alias": "colorm/components",
@@ -95,7 +100,7 @@
           },
           "title": "FOT OGRAFÍA<br>PROFESIONAL",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ver galería</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">ver galería</a>"
         },
         {
           "_styles": {
@@ -167,20 +172,6 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>"
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "   <table>\n        <thead>\n          <tr>\n              <th data-field=\"id\">Name</th>\n              <th data-field=\"name\">Item Name</th>\n              <th data-field=\"price\">Item Price</th>\n          </tr>\n        </thead>\n\n        <tbody>\n          <tr>\n            <td>Alvin</td>\n            <td>Eclair</td>\n            <td>$0.87</td>\n          </tr>\n          <tr>\n            <td>Alan</td>\n            <td>Jellybean</td>\n            <td>$3.76</td>\n          </tr>\n          <tr>\n            <td>Jonathan</td>\n            <td>Lollipop</td>\n            <td>$7.00</td>\n          </tr>\n        </tbody>\n      </table>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-f"
-        },
-        {
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -195,19 +186,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56-2000x1333-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60-2000x1334-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -216,7 +208,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -287,13 +280,13 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 2,
-            "progress1": "96",
-            "progress2": "94",
-            "progress3": "94",
+            "progress1": "97",
+            "progress2": "98",
+            "progress3": "98",
             "progress4": "100",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-6.jpg",
             "bgColor": "#1abc9c",
             "bgColorRadio": false,
             "bgVideo": {
@@ -301,10 +294,10 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.85,
-            "overlayColor": "#1abc9c",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "stripedBars": false
           },
           "_anchor": "progress-bar2-b",
@@ -333,26 +326,10 @@
             "paddingBottom": 1,
             "slides": [
               {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>"
-              },
-              {
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -365,36 +342,23 @@
                 "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 },
-                "authorName": "Suffian A.",
+                "authorName": "Abanoub S.",
                 "authorBio": "USER",
                 "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Alex Higgins",
-                "authorBio": "USER",
-                "text": "<p>\"A major tturning point in the history of early philosophical science was the controversial \"</p>"
               }
             ],
             "showImages": true,
@@ -415,7 +379,7 @@
             "showTitle": false,
             "showSubtitle": false,
             "showBullets": true,
-            "visibleSlides": "3",
+            "visibleSlides": "2",
             "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
             "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
           },
@@ -424,7 +388,11 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
-          "_styles": {},
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-size": "12px"
+            }
+          },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -445,7 +413,7 @@
             "showTitles": true,
             "logo": true
           },
-          "title1": "recibe noticias y &nbsp;ofertas",
+          "title1": "Diego luis photography © COPYRIGHT 2016",
           "logo": {
             "image": {
               "active": true,
@@ -548,7 +516,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"imind-mail-send mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"icon54-send-mail2 mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR&nbsp;</a>"
         },
         {
           "_styles": {
@@ -583,13 +551,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#c4c4c4"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#d5d5d5!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#dddddd"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -612,7 +580,7 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#2c3e50",
+            "bgColor": "#dddddd",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -641,7 +609,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
