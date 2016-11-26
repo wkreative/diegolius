@@ -786,19 +786,19 @@ blockquote {
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-menu {
-  background: #c4c4c4;
+  background: #aae2e0;
 }
 #menu-j .nav-dropdown-sm .link:focus,
 #menu-j .nav-dropdown-sm .link:hover,
 #menu-j .nav-dropdown-sm .dropdown-item:focus,
 #menu-j .nav-dropdown-sm .dropdown-item:hover {
-  background: #d5d5d5!important;
+  background: #c5ebea!important;
 }
 #menu-j .navbar,
 #menu-j .nav-dropdown-sm,
 #menu-j .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-j .nav-dropdown-sm .dropdown-menu {
-  background: #dddddd;
+  background: #d0efee;
 }
 #menu-j .bg-color.transparent .link {
   color: #ffffff;
