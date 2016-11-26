@@ -76,8 +76,8 @@
           "_name": "animated-bg1",
           "_anchor": "animated-bg1-4",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgText": "DIEGOLUIS PHOTOGRAPHY",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#e74c3c",
@@ -101,6 +101,191 @@
           "title": "FOT OGRAFÍA<br>PROFESIONAL",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">ver galería</a>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56-2000x1333-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60-2000x1334-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-3-2000x1333-39-2000x1333-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-3-2000x1333-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-4-2000x1334-47-2000x1334-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-4-2000x1334-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-5-2000x1328-53-2000x1328-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-5-2000x1328-53.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-6-2000x1333-42-2000x1333-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-6-2000x1333-42.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-7-2000x1333-62-2000x1333-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-7-2000x1333-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-8-2000x1333-62-2000x1333-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-8-2000x1333-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-9-2000x1333-79-2000x1333-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-9-2000x1333-79.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-10-2000x1328-54-2000x1328-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-10-2000x1328-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-11-2000x1333-38-2000x1333-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-11-2000x1333-38.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-12-2000x1333-38-2000x1333-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-12-2000x1333-38.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-13-2000x1333-77-2000x1333-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-13-2000x1333-77.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-14-2000x1334-94-2000x1334-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-14-2000x1334-94.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-15-2000x1332-9-2000x1332-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-15-2000x1332-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-photography-16-2000x1331-94-2000x1331-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-luis-photography-16-2000x1331-94.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-5",
+          "articleLayout": false,
+          "allItem": "ALL",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_styles": {
@@ -162,7 +347,7 @@
           "price3": "650",
           "period3": "/CU",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3</b> Projects</li><li class=\"list-group-item\"><b>100</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1.0&amp;item_name=Gold+Plan&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=650&amp;item_name=Gold+Plan&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label4": "POPULAR",
           "title4": "ULTIMATE PLAN",
           "currency4": "$",
@@ -170,106 +355,6 @@
           "period4": "/mo",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Projects</li><li class=\"list-group-item\"><b>Unlimited</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>"
-        },
-        {
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56-2000x1333-97.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-luis-2000x1333-56.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60-2000x1334-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/willungawedding-2000x1334-60.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-5",
-          "articleLayout": false,
-          "allItem": "ALL",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "alias": "colorm/components",
@@ -519,7 +604,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"icon54-send-mail2 mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"icon54-send-mail2 mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR&nbsp;</a>"
         },
         {
           "_styles": {
@@ -554,13 +639,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c4c4c4"
+              "background": "#798d8f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#d5d5d5!important"
+              "background": "#8d9e9f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#dddddd"
+              "background": "#95a5a6"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -583,7 +668,7 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#dddddd",
+            "bgColor": "#95a5a6",
             "fontSize": 0.875,
             "fontName": {},
             "fontColor": "#ffffff",
