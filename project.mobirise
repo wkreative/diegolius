@@ -77,7 +77,7 @@
           "_anchor": "animated-bg1-4",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgText": "DIEGOLUIS PHOTOGRAPHY",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#e74c3c",
@@ -148,21 +148,21 @@
           "price1": "299",
           "period1": "/cu",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1</b> Projects</li><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=299.00&amp;item_name=Silver+Photography+Pckg.&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=299.00&amp;item_name=Bronce+Photography+Pckg.&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label2": "POPULAR",
           "title2": "TEAM PLAN",
           "currency2": "$",
           "price2": "450",
           "period2": "/cu",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>2</b> Projects</li><li class=\"list-group-item\"><b>40</b> Images</li><li class=\"list-group-item\"><b>12/7</b> Support</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=SELECCIONAR&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=450.00&amp;item_name=Silver+Plan&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label3": "POPULAR",
           "title3": "CORPORATE PLAN",
           "currency3": "$",
           "price3": "650",
           "period3": "/CU",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3</b> Projects</li><li class=\"list-group-item\"><b>100</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1.0&amp;item_name=Gold+Plan&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label4": "POPULAR",
           "title4": "ULTIMATE PLAN",
           "currency4": "$",
@@ -331,10 +331,13 @@
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/face1.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 },
                 "authorName": "Abanoub S.",
@@ -609,7 +612,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-5\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-k\" aria-expanded=\"false\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
