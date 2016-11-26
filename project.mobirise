@@ -67,6 +67,11 @@
               "color": "#ffffff",
               "font-family": "'Arvo', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
+            },
+            "P": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
             }
           },
           "alias": "colorm/components",
@@ -95,12 +100,12 @@
             "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "title": "FOT OGRAFÍA<br>PROFESIONAL",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">ver galería</a>"
+          "text": "Captura los momentos más importantes de tu vida.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">ver galería</a>"
         },
         {
           "alias": "colorm/components",
