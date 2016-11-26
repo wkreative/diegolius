@@ -328,21 +328,21 @@
           "title": "Escoge tu Plan",
           "subtitle": " **Precios pueden cambiar sin previo aviso.",
           "label1": "POPULAR",
-          "title1": "PLAN BÁSICO",
+          "title1": "PLAN BRONCE",
           "currency1": "$",
           "price1": "299",
           "period1": "/cu",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1</b> Projects</li><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=299.00&amp;item_name=Bronce+Photography+Pckg.&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label2": "POPULAR",
-          "title2": "TEAM PLAN",
+          "title2": "PLAN SILVER",
           "currency2": "$",
           "price2": "450",
           "period2": "/cu",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>2</b> Projects</li><li class=\"list-group-item\"><b>40</b> Images</li><li class=\"list-group-item\"><b>12/7</b> Support</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=450.00&amp;item_name=Silver+Plan&amp;currency_code=USD\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">SELECCIONAR</a>",
           "label3": "POPULAR",
-          "title3": "CORPORATE PLAN",
+          "title3": "PLAN GOLD",
           "currency3": "$",
           "price3": "650",
           "period3": "/CU",
@@ -426,8 +426,8 @@
                   }
                 },
                 "authorName": "Abanoub S.",
-                "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
+                "authorBio": "BAYAMÓN",
+                "text": "<p>“Todos los detalles del día más importante de mi vida fueron capturados por los lententes de las cámaras de Diego Luis Photography, Servicio de Altura ”</p>"
               },
               {
                 "active": true,
@@ -444,9 +444,9 @@
                     "linkInNewWindow": false
                   }
                 },
-                "authorName": "Abanoub S.",
-                "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
+                "authorName": "Viviana Muñiz",
+                "authorBio": "SAN JUAN",
+                "text": "<p>“Muy complacida con el servicio y profesionalismo con el que el equipo de de Diego Luis Photography trabaja,</p><p>Altamente Recomendado\"</p>"
               }
             ],
             "showImages": true,
@@ -577,7 +577,7 @@
           "form": {
             "action": "josejimenezmorales@hotmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Gracias por contactarnos!"
             },
             "fields": {
               "name": {
